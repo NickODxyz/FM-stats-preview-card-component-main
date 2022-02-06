@@ -1,4 +1,4 @@
-<h1 align="center">Frontend Mentor - Stats preview card component solution</h1>
+<h1 align="center">Frontend Mentor - Stats Preview Card Component Solution</h1>
 
 <img src="https://github.com/NickODxyz/FM-stats-preview-card-component-main/blob/main/Preview.JPG?raw=true" ></img>
 
