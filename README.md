@@ -28,7 +28,7 @@ Also got to play with `mix-blend-mode: multiply;` to add an effect over a backgr
 ## Site links
 Hosted [Live Site](https://nickodxyz.github.io/FM-stats-preview-card-component-main/)
 <br>
-Frontend Mentor [Solution Page]()
+Frontend Mentor [Solution Page](https://www.frontendmentor.io/solutions/stats-preview-card-component-solution-mobile-first-workflow-aT-66RRhr)
 
 <br>
 
