@@ -10,6 +10,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 <br>
 
+## What I learned
+
 This was my first project with a mobile first workflow. So got to grips with `flex-direction: row-reverse;`
 <br>
 Also got to play with `mix-blend-mode: multiply;` to add an effect over a background image.
